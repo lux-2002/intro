@@ -1,8 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lakshmi and I'm a software engineer, from india</h2>
-
-###
-
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D4D22AQH57I8s3Op9Cg/feedshare-shrink_800/0/1702575799402?e=2147483647&v=beta&t=w0kISxz9Ybt2qxYoZiZ71SR2KH7n9hCqNeTWd45iDjM"  />
+<h2 align="left">Hey 👋! Lakshmi here welcome to my git portal!!!</h2>
 
 ###
 
@@ -38,10 +34,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lux-2002/lux-2002/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/D4D22AQH57I8s3Op9Cg/feedshare-shrink_800/0/1702575799402?e=2147483647&v=beta&t=w0kISxz9Ybt2qxYoZiZ71SR2KH7n9hCqNeTWd45iDjM"  />
+</div>
 
 ###
 
-<p align="left">A coding enthusiast keen to explore more!!!</p>
+<p align="center">A coding enthusiast keen to explore more!!!</p>
 
 ###
