@@ -38,8 +38,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/lux-2002/lux-2002/output/snake.svg" alt="Snake animation" />
 
 ###
